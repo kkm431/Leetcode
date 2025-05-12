@@ -123,4 +123,12 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kkm431/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kkm431/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
