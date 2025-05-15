@@ -41,6 +41,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/kkm431/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kkm431/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kkm431/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kkm431/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kkm431/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -63,6 +64,7 @@
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkm431/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kkm431/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
 |  |
 | ------- |
@@ -85,12 +87,14 @@
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/kkm431/Leetcode/tree/master/0868-push-dominoes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kkm431/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kkm431/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kkm431/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/kkm431/Leetcode/tree/master/0868-push-dominoes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kkm431/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kkm431/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kkm431/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
