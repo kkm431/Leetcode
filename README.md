@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/kkm431/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kkm431/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/kkm431/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/kkm431/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kkm431/Leetcode/tree/master/0118-pascals-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkm431/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kkm431/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -79,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kkm431/Leetcode/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Monotonic Queue
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kkm431/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/kkm431/Leetcode/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/kkm431/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/kkm431/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
