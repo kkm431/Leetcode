@@ -43,6 +43,7 @@
 | [0075-sort-colors](https://github.com/kkm431/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kkm431/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkm431/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkm431/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kkm431/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kkm431/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Greedy
 |  |
@@ -99,6 +101,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/kkm431/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kkm431/Leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0868-push-dominoes](https://github.com/kkm431/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/kkm431/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -171,4 +174,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kkm431/Leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
