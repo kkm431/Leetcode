@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kkm431/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kkm431/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/kkm431/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kkm431/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kkm431/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kkm431/Leetcode/tree/master/0118-pascals-triangle) |
@@ -63,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kkm431/Leetcode/tree/master/0048-rotate-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kkm431/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kkm431/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kkm431/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -138,6 +140,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kkm431/Leetcode/tree/master/0048-rotate-image) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kkm431/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kkm431/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
