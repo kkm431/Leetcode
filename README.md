@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kkm431/Leetcode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/kkm431/Leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/kkm431/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kkm431/Leetcode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kkm431/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kkm431/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -46,6 +47,7 @@
 | [0118-pascals-triangle](https://github.com/kkm431/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkm431/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kkm431/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kkm431/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkm431/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kkm431/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -96,6 +98,7 @@
 | [0056-merge-intervals](https://github.com/kkm431/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kkm431/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kkm431/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kkm431/Leetcode/tree/master/0229-majority-element-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Monotonic Queue
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kkm431/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kkm431/Leetcode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kkm431/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kkm431/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
