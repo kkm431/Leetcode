@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kkm431/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kkm431/Leetcode/tree/master/0050-powx-n) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kkm431/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kkm431/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kkm431/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -173,6 +174,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kkm431/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kkm431/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
