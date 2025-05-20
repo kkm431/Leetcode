@@ -15,7 +15,6 @@ public:
         while(ptrA != ptrB){
             ptrA = ptrA? ptrA->next : headB;
             ptrB = ptrB? ptrB->next : headA;
-            
         }
 
         return ptrA;
