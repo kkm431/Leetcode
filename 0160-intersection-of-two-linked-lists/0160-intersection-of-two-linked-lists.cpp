@@ -9,17 +9,16 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_map<ListNode *, int> intersectionNode;
-        for(auto node= headA; node!= NULL; node=node->next)
-        {
-            intersectionNode[node]= node->val;
+        ListNode * ptrA= headA;
+        ListNode * ptrB= headB;
+
+        while(ptrA != ptrB){
+            ptrA = ptrA? ptrA->next : headB;
+            ptrB = ptrB? ptrB->next : headA;
+            
         }
 
-        for(auto node= headB; node!= NULL; node=node->next)
-        {
-            if(intersectionNode.find(node) != intersectionNode.end())
-                return node;
-        }
-        return NULL;
+        return ptrA;
+        
     }
 };
