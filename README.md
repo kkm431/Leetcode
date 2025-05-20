@@ -64,6 +64,7 @@
 | [3321-type-of-triangle](https://github.com/kkm431/Leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kkm431/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kkm431/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/kkm431/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/kkm431/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/kkm431/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/kkm431/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
