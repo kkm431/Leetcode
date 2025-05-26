@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/kkm431/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kkm431/Leetcode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kkm431/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/kkm431/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kkm431/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/kkm431/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -30,12 +31,14 @@
 | ------- |
 | [0133-clone-graph](https://github.com/kkm431/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kkm431/Leetcode/tree/master/0207-course-schedule) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/kkm431/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kkm431/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kkm431/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kkm431/Leetcode/tree/master/0207-course-schedule) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/kkm431/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0118-pascals-triangle](https://github.com/kkm431/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkm431/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0868-push-dominoes](https://github.com/kkm431/Leetcode/tree/master/0868-push-dominoes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/kkm431/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/kkm431/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kkm431/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kkm431/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -150,6 +154,7 @@
 | [0169-majority-element](https://github.com/kkm431/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kkm431/Leetcode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kkm431/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/kkm431/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kkm431/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
@@ -211,4 +216,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/kkm431/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
