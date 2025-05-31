@@ -28,6 +28,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/kkm431/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kkm431/Leetcode/tree/master/0207-course-schedule) |
+| [0945-snakes-and-ladders](https://github.com/kkm431/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kkm431/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
@@ -59,6 +60,7 @@
 | [0169-majority-element](https://github.com/kkm431/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kkm431/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0945-snakes-and-ladders](https://github.com/kkm431/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkm431/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kkm431/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kkm431/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -184,6 +186,7 @@
 | [0048-rotate-image](https://github.com/kkm431/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kkm431/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kkm431/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0945-snakes-and-ladders](https://github.com/kkm431/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kkm431/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kkm431/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
