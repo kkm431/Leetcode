@@ -156,6 +156,7 @@
 | [0053-maximum-subarray](https://github.com/kkm431/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kkm431/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkm431/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0806-domino-and-tromino-tiling](https://github.com/kkm431/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/kkm431/Leetcode/tree/master/0868-push-dominoes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kkm431/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/kkm431/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
