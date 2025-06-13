@@ -76,6 +76,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/kkm431/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kkm431/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kkm431/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kkm431/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/kkm431/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kkm431/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -111,11 +112,13 @@
 | [0074-search-a-2d-matrix](https://github.com/kkm431/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kkm431/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkm431/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kkm431/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kkm431/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kkm431/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/kkm431/Leetcode/tree/master/3647-zero-array-transformation-iii) |
