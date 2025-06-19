@@ -76,6 +76,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/kkm431/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kkm431/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kkm431/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kkm431/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kkm431/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -123,6 +124,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkm431/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kkm431/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kkm431/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kkm431/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kkm431/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkm431/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -142,6 +144,7 @@
 | [0229-majority-element-ii](https://github.com/kkm431/Leetcode/tree/master/0229-majority-element-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kkm431/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkm431/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/kkm431/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/kkm431/Leetcode/tree/master/3647-zero-array-transformation-iii) |
