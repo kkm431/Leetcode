@@ -75,6 +75,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/kkm431/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2048-build-array-from-permutation](https://github.com/kkm431/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kkm431/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kkm431/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkm431/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/kkm431/Leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kkm431/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kkm431/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kkm431/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kkm431/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
