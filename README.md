@@ -118,6 +118,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kkm431/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/kkm431/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/kkm431/Leetcode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kkm431/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kkm431/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/kkm431/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kkm431/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -239,6 +240,7 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/kkm431/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kkm431/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kkm431/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/kkm431/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kkm431/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kkm431/Leetcode/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kkm431/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -304,6 +307,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kkm431/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kkm431/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
